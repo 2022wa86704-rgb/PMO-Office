@@ -4,5 +4,4 @@
 |--------|----------|
 | Laptop | 10 |
 | Printer | 2 |
-
-Commit Changes.
+| Keyboard | 20 |
